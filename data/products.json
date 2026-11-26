@@ -1,0 +1,2529 @@
+[
+ {
+  "slug": "1060-basmati-rice",
+  "name": "1060 Basmati Rice",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "35 kg"
+  ],
+  "line": "1060 Basmati Rice is a premium-grade long-grain rice known for its fragrant aroma, slender grains, and fluffy texture when cooked.",
+  "about": [
+   "1060 Basmati Rice is a premium-grade long-grain rice known for its fragrant aroma, slender grains, and fluffy texture when cooked. Ideal for biryanis, pulao, and other festive meals."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/1060-basmati-rice/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/1060-basmati-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/1060-basmati-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "aeroplane-apple-basmati-rice",
+  "name": "Aeroplane Apple Basmati Rice",
+  "families": [],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Aeroplane Apple Basmati Rice is a premium basmati rice with long, slender grains, a delightful natural aroma, and a soft, fluffy texture after…",
+  "about": [
+   "Aeroplane Apple Basmati Rice is a premium basmati rice with long, slender grains, a delightful natural aroma, and a soft, fluffy texture after cooking. Ideal for biryani, pulao, and everyday meals, it offers rich flavor, superior quality, and a satisfying dining experience in every serving."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/aeroplane-apple-basmati-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/aeroplane-apple-basmati-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "aeroplane-brown-rice",
+  "name": "Aeroplane Brown Rice",
+  "families": [
+   "Basmati",
+   "Healthy"
+  ],
+  "sizes": [
+   "1 kg"
+  ],
+  "line": "Whole-grain brown rice with its natural fibre.",
+  "about": [
+   "Brown rice is beneficial for diabetic and hyperglycemic individuals. It has a low glycemic index which is helpful in reducing insulin surges and assists in the stabilization of blood sugar levels in the body.",
+   "Brown rice is a helpful staple that can be added to the daily diet for keeping a healthy digestive system. Fiber present in brown rice helps in regulating bowel function and keeps a fuller feeling.",
+   "Brown rice is rich in selenium which is beneficial for a healthy heart. Consumption of whole grains such as brown rice helps reduce the blockage of arteries due to plaque buildup.",
+   "Brown rice is a healthy option for maintaining healthy levels of cholesterol attributed to the presence of naturally occurring oils.",
+   "Brown rice is loaded with significant quantities of vitamins, minerals, and essential phenolic components which help boost the immune system of the body, accelerate healing, and enhance its ability to fight infections."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/aeroplane-brown-rice/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/aeroplane-brown-rice/closeup.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "aeroplane-power-creamy-sella",
+  "name": "Aeroplane Power Creamy Sella",
+  "families": [
+   "Basmati",
+   "Golden Sella"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "A blend of white Sella Basmati rice and slightly broken Super Tibar grains, this combo provides quality and affordability.",
+  "about": [
+   "A blend of white Sella Basmati rice and slightly broken Super Tibar grains, this combo provides quality and affordability. It cooks with a soft but defined texture, ideal for bulk dishes like biryani, veg pulao, and buffet servings in catering environments."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/aeroplane-power-creamy-sella/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/aeroplane-power-creamy-sella/closeup.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "aeroplane-power-golden-sella",
+  "name": "Aeroplane Power Golden Sella",
+  "families": [
+   "Golden Sella"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "This variant features parboiled golden Sella grains that remain firm and separate when cooked.",
+  "about": [
+   "This variant features parboiled golden Sella grains that remain firm and separate when cooked. With a rich golden color and premium aroma, Aeroplane Power Golden Sella is perfect for layered rice dishes like biryani and tandoori pulao. It ensures high plate appeal and consistent taste every time."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/aeroplane-power-golden-sella/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/aeroplane-power-golden-sella/closeup.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "aeroplane-race-creamy-sella",
+  "name": "Aeroplane Race Creamy Sella",
+  "families": [
+   "Basmati",
+   "Golden Sella"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "It is a refined white Sella Basmati rice variety offering long, clean grains and great cooking consistency.",
+  "about": [
+   "It is a refined white Sella Basmati rice variety offering long, clean grains and great cooking consistency. It is ideal for festive meals and traditional cooking, delivering aroma, fluffiness, and non-sticky texture in every plate. A go-to rice for quality-conscious buyers."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/aeroplane-race-creamy-sella/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/aeroplane-race-creamy-sella/closeup.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "aeroplane-race-golden-sella",
+  "name": "Aeroplane Race Golden Sella",
+  "families": [
+   "Golden Sella"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "For everyday meals and fried rice.",
+  "about": [
+   "Perfect for Everyday Meals, Fried/Chinese Rice"
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/aeroplane-race-golden-sella/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/aeroplane-race-golden-sella/closeup.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "aeroplane-sona-masoori",
+  "name": "Aeroplane Sona Masoori",
+  "families": [
+   "Regional",
+   "Sona Masoori"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Lightweight, sweet-smelling medium grain for pongal, idli, biryani and fried rice.",
+  "about": [
+   "Sona Masoori Raw Rice is medium-grain rice. It is lightweight and sweet-smelling and measured to be of the finest quality. It has a distinctive taste that is not matched by rice from any other region. It is the tastiest of all the Sona Masoori rice available in the state. Sona Masoori is largely considered to be a healthy dish as it contains less starch and is easily digestible. It is ideal rice to be used for sweet Pongal, biryani, idlis and fried rice."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/aeroplane-sona-masoori/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/aeroplane-sona-masoori/closeup.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "aeroplane-tini-mogra-rice",
+  "name": "Aeroplane Tini Mogra Rice",
+  "families": [],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Aeroplane Tini Mogra Rice is a premium aromatic rice with fine, pearly grains that cook soft, fluffy, and full of flavor.",
+  "about": [
+   "Aeroplane Tini Mogra Rice is a premium aromatic rice with fine, pearly grains that cook soft, fluffy, and full of flavor. Ideal for everyday meals, pulao, and traditional recipes, it delivers a delightful aroma, excellent taste, and consistent quality, making every meal wholesome and satisfying."
+  ],
+  "hasGrain": false,
+  "photos": []
+ },
+ {
+  "slug": "ali-baba",
+  "name": "Ali Baba",
+  "families": [
+   "Basmati",
+   "Biryani"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Ali Baba Basmati Rice offers long, slender grains with a rich aroma and fluffy texture when cooked.",
+  "about": [
+   "Ali Baba Basmati Rice offers long, slender grains with a rich aroma and fluffy texture when cooked. It’s ideal for festive dishes like biryani, pulao, and traditional Mughlai meals."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/ali-baba/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/ali-baba/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/ali-baba/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "ambemohar",
+  "name": "Ambemohar",
+  "families": [
+   "Aromatic"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "A short, GI-tagged Maharashtra rice named after the mango blossom for its sweet, floral aroma.",
+  "about": [
+   "Western Ghats, Maharashtra",
+   "Named after the mango blossom ('ambe' = mango, 'mohar' = blossom), this short-grain rice is famous for its distinctive, sweet, floral aroma. A GI-tagged variety grown in Pune, Satara, and Kolhapur districts.",
+   "GI-tagged, Aromatic, Soft texture",
+   "Nutrition: ~350 kcal/100g, ~77g carbs, moderate protein (~7g). Contains magnesium, phosphorus, and B vitamins. Moderate GI."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/ambemohar/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/ambemohar/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "banskathi-rice",
+  "name": "Banskathi",
+  "families": [
+   "Regional",
+   "Parboiled"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "26 kg"
+  ],
+  "line": "A traditional Bengali variety for daily home cooking.",
+  "about": [
+   "Banskathi rice is a traditional Bengali variety with fine, medium grains and a subtle aroma. It is commonly used for Bengali curries, plain rice, and daily home-cooked meals."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/banskathi-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/banskathi-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ],
+  "facts": {
+   "grain": "Fine, medium grain",
+   "cooks": "Subtle aroma",
+   "knownFor": "Bengali curries, plain rice"
+  }
+ },
+ {
+  "slug": "black-rice",
+  "name": "Black Rice",
+  "families": [
+   "Healthy"
+  ],
+  "sizes": [
+   "1 kg"
+  ],
+  "line": "Turns a deep purple when cooked, with a nutty, slightly sweet flavour.",
+  "about": [
+   "This unique black rice variety boasts a beautiful deep purple hue when cooked and offers a delightful nutty and subtly sweet flavor. Prized for its nutritional value, Chak Hao black rice is packed with antioxidants and is a good source of fiber, protein, and iron. It is an ideal ingredient to make baby food."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/black-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/black-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ],
+  "facts": {
+   "grain": "Chak Hao black rice",
+   "cooks": "Nutty, subtly sweet",
+   "knownFor": "Antioxidants, fibre, protein, iron"
+  }
+ },
+ {
+  "slug": "brown-rice",
+  "name": "Brown Rice",
+  "families": [
+   "Healthy"
+  ],
+  "sizes": [
+   "1 kg"
+  ],
+  "line": "Whole grain with its bran layer kept on.",
+  "about": [
+   "Brown rice is a whole grain rice variety known for its nutty flavor and slightly elongated grains. Unlike white rice, son masoori brown rice retains its bran layer, making it a rich source of fiber, vitamins, and minerals."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/brown-rice/closeup.webp",
+    "type": "grain"
+   }
+  ],
+  "facts": {
+   "grain": "Slightly elongated whole grain",
+   "cooks": "Nutty",
+   "knownFor": "Fibre, vitamins, minerals"
+  }
+ },
+ {
+  "slug": "bullet-rice",
+  "name": "Bullet Rice",
+  "families": [
+   "Basmati",
+   "Regional"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "26 kg"
+  ],
+  "line": "A compact grain that soaks up flavour and stays non-sticky.",
+  "about": [
+   "Bullet Rice is a short and bold grain variety, known for its compact size and firm texture. Commonly used in South Indian and Maharashtrian cooking, it holds shape well and absorbs flavors efficiently. Ideal for dishes like masale bhat, pongal, and curd rice, Bullet Rice is favored for its non-sticky finish and high starch content. It’s a popular everyday rice that delivers on taste and consistency while being budget-friendly."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/bullet-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/bullet-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ],
+  "facts": {
+   "grain": "Short, bold grain",
+   "cooks": "Firm, holds its shape",
+   "knownFor": "Masale bhat, pongal, curd rice"
+  }
+ },
+ {
+  "slug": "chakarpani-dark-pink",
+  "name": "Chakarpani Dark Pink",
+  "families": [
+   "Golden Sella",
+   "Staff",
+   "Parboiled"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Chakarpani Dark Pink is Parboiled rice, Mainly Consumed by the people living in states like Bihar, Jharkhand, Orissa, and West Bengal.",
+  "about": [
+   "Chakarpani Dark Pink is Parboiled rice, Mainly Consumed by the people living in states like Bihar, Jharkhand, Orissa, and West Bengal. It's reasonable and pocket-friendly, usually used as a staple food. It's an alternative to traditional white rice as it is a rich source of iron and calcium. It has fewer calories"
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/chakarpani-dark-pink/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/chakarpani-dark-pink/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/chakarpani-dark-pink/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "dehraduni-dhoom",
+  "name": "Dehraduni Dhoom",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Dehraduni Dhoom is an elite variety of traditional Basmati rice, cultivated in the Himalayan foothills.",
+  "about": [
+   "Dehraduni Dhoom is an elite variety of traditional Basmati rice, cultivated in the Himalayan foothills. Revered for its long, slender grains and rich, nutty aroma, it stands out for its excellent cooking characteristics and taste. When cooked, the grains elongate significantly while remaining non-sticky and fluffy, making it ideal for royal biryanis and festive meals. Dehraduni Dhoom brings heritage, aroma, and authenticity to your plate."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/dehraduni-dhoom/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/dehraduni-dhoom/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/dehraduni-dhoom/grain-2.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/dehraduni-dhoom/grain-3.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "dehraduni-rice",
+  "name": "Dehraduni Rice",
+  "families": [],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Patiently aged basmati with a rich aroma.",
+  "about": [
+   "The world’s most premium Basmati rice, rich with exquisite aroma and delectable taste. Each grain of Rice is patiently aged to make it more flavourful."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/dehraduni-rice/closeup.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "delhi-pasand-aabha",
+  "name": "Delhi Pasand Aabha",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Basmati that grows from 5.90 mm to 13.00 mm when cooked.",
+  "about": [
+   "Cholesterol Free Premium Quality Basmati Rice",
+   "Average length: Pre-cook - 5.90 mm, Post-cook - 13.00 mm",
+   "Yield of 1:2.7 ensures ample servings",
+   "Optimal soaking time: 30-45 minutes for perfect texture and flavour",
+   "Aged less than 12 months for freshness and authenticity",
+   "Free from adulterations, ensuring purity and quality",
+   "Rich in essential nutrients, vitamins, and minerals",
+   "Indulge in the rich taste and aroma while embracing a healthier lifestyle with Delhi Pasand Basmati Rice.",
+   "Long shelf life: Delhi Pasand Basmati Rice has a long shelf life, which makes it an ideal choice for bulk purchasing."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/delhi-pasand-aabha/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/delhi-pasand-aabha/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/delhi-pasand-aabha/grain-2.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/delhi-pasand-aabha/grain-3.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "delhi-pasand-daily",
+  "name": "Delhi Pasand Daily",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Basmati that grows from 7.45 mm to 20.86 mm when cooked.",
+  "about": [
+   "Cholesterol Free Premium Quality Basmati Rice",
+   "Average length: Pre-cook - 7.45 mm, Post-cook - 20.86 mm",
+   "Yield of 1:2.7 ensures ample servings",
+   "Optimal soaking time: 30-45 minutes for perfect texture and flavour",
+   "Aged less than 12 months for freshness and authenticity",
+   "Free from adulterations, ensuring purity and quality",
+   "Rich in essential nutrients, vitamins, and minerals",
+   "Indulge in the rich taste and aroma while embracing a healthier lifestyle with Delhi Pasand Basmati Rice."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/delhi-pasand-daily/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/delhi-pasand-daily/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/delhi-pasand-daily/grain-2.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/delhi-pasand-daily/grain-3.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "delhi-pasand-easy",
+  "name": "Delhi Pasand Easy",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Basmati that grows from 4.85 mm to 10.00 mm when cooked.",
+  "about": [
+   "Experience the essence of tradition with Delhi Pasand Basmati Rice",
+   "Average length: Pre-cook - 4.85 mm, Post-cook - 10.00 mm",
+   "Yield of 1:2.7 ensures ample servings",
+   "Optimal soaking time: 30-45 minutes for perfect texture and flavour",
+   "Aged less than 12 months for freshness and authenticity",
+   "Free from adulterations, ensuring purity and quality",
+   "Rich in essential nutrients, vitamins, and minerals",
+   "Indulge in the rich taste and aroma while embracing a healthier lifestyle with Delhi Pasand Basmati Rice."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/delhi-pasand-easy/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/delhi-pasand-easy/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/delhi-pasand-easy/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "delhi-pasand-fine",
+  "name": "Delhi Pasand Fine",
+  "families": [
+   "Basmati",
+   "Staff"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Aged basmati with slender grains that cook light, fluffy and separate.",
+  "about": [
+   "Healthy Food Choice: Delhi Pasand Basmati Rice is Gluten-Free making it a perfect choice for your good health. Our Rice also contains Natural proteins, Vitamins and Calcium.",
+   "Traditional Basmati Rice: Delhi Pasand Basmati Rice is authentic basmati rice that is aged to perfection. The flavorful and aromatic grain of Delhi Pasand Basmati Rice can transform any rice dish into a delightful experience.",
+   "Long, slender grains: Delhi Pasand Basmati Rice has long, slender grains that are known for their distinct aroma and delicate texture.",
+   "Fluffy Texture: Delhi Pasand Basmati Rice is light, fluffy and separate, making it perfect for dishes like biryani and pulao.",
+   "Non-sticky: Delhi Pasand Basmati Rice is non-sticky, which makes it perfect for dishes that require the rice to be separate and fluffy. Grains do not stick or break when cooked.",
+   "No Artificial Colours or Flavours: Delhi Pasand Basmati Rice is free from any artificial colours or flavours, making it a healthy and delicious choice for any meal.",
+   "Long shelf life: Delhi Pasand Basmati Rice has a long shelf life, which makes it an ideal choice for bulk purchasing."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/delhi-pasand-fine/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/delhi-pasand-fine/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/delhi-pasand-fine/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "delhi-pasand-first-choise",
+  "name": "Delhi Pasand First Choise",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Basmati that grows from 5.40 mm to 12.00 mm when cooked.",
+  "about": [
+   "Cholesterol Free Premium Quality Basmati Rice",
+   "Average length: Pre-cook - 5.40 mm, Post-cook - 12.00 mm",
+   "Yield of 1:2.7 ensures ample servings",
+   "Optimal soaking time: 30-45 minutes for perfect texture and flavour",
+   "Aged less than 12 months for freshness and authenticity",
+   "Free from adulterations, ensuring purity and quality",
+   "Rich in essential nutrients, vitamins, and minerals",
+   "Indulge in the rich taste and aroma while embracing a healthier lifestyle with Delhi Pasand Basmati Rice."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/delhi-pasand-first-choise/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/delhi-pasand-first-choise/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/delhi-pasand-first-choise/grain-2.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/delhi-pasand-first-choise/grain-3.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "delhi-pasand-light",
+  "name": "Delhi Pasand Light",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Basmati that grows from 6.75 mm to 14.50 mm when cooked.",
+  "about": [
+   "Cholesterol Free Premium Quality Basmati Rice",
+   "Average length: Pre-cook - 6.75 mm, Post-cook - 14.50 mm",
+   "Yield of 1:2.7 ensures ample servings",
+   "Optimal soaking time: 30-45 minutes for perfect texture and flavour",
+   "Aged less than 12 months for freshness and authenticity",
+   "Free from adulterations, ensuring purity and quality",
+   "Rich in essential nutrients, vitamins, and minerals",
+   "Indulge in the rich taste and aroma while embracing a healthier lifestyle with Delhi Pasand Basmati Rice."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/delhi-pasand-light/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/delhi-pasand-light/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/delhi-pasand-light/grain-2.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/delhi-pasand-light/grain-3.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "delhi-pasand-super",
+  "name": "Delhi Pasand Super",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Aged basmati with slender grains and a distinct aroma.",
+  "about": [
+   "Healthy Food Choice:",
+   "Delhi Pasand Basmati Rice is Cholesterol-Free and Gluten-Free making it a perfect choice for your good health. Our Rice also contains Natural proteins, Vitamins and Calcium.",
+   "Traditional Basmati Rice:",
+   "Delhi Pasand Basmati Rice is authentic basmati rice that is aged to perfection. The flavorful and aromatic grain of Delhi Pasand Basmati Rice can transform any rice dish into a delightful experience.",
+   "Long, slender grains:",
+   "Delhi Pasand Basmati Rice has long, slender grains that are known for their distinct aroma and delicate texture.",
+   "Fluffy Texture:",
+   "Delhi Pasand Basmati Rice is light, fluffy and separate, making it perfect for dishes like biryani and pulao.",
+   "Non-sticky:",
+   "Delhi Pasand Basmati Rice is non-sticky, which makes it perfect for dishes that require the rice to be separate and fluffy. Grains do not stick or break when cooked.",
+   "No Artificial Colours or Flavours:",
+   "Delhi Pasand Basmati Rice is free from any artificial colours or flavours, making it a healthy and delicious choice for any meal.",
+   "Long shelf life:",
+   "Delhi Pasand Basmati Rice has a long shelf life, which makes it an ideal choice for bulk purchasing."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/delhi-pasand-super/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/delhi-pasand-super/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/delhi-pasand-super/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "delhi-pasand-tibar",
+  "name": "Delhi Pasand Tibar",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "26 kg"
+  ],
+  "line": "Aged basmati with slender grains and a distinct aroma.",
+  "about": [
+   "Healthy Food Choice: Delhi Pasand Basmati Rice is Cholesterol-Free and Gluten-Free making it a perfect choice for your good health. Our Rice also contains Natural proteins, Vitamins and Calcium.",
+   "Traditional Basmati Rice: Delhi Pasand Basmati Rice is authentic basmati rice that is aged to perfection. The flavorful and aromatic grain of Delhi Pasand Basmati Rice can transform any rice dish into a delightful experience.",
+   "Long, slender grains: Delhi Pasand Basmati Rice has long, slender grains that are known for their distinct aroma and delicate texture.",
+   "Fluffy Texture: Delhi Pasand Basmati Rice is light, fluffy and separate, making it perfect for dishes like biryani and pulao.",
+   "Non-sticky: Delhi Pasand Basmati Rice is non-sticky, which makes it perfect for dishes that require the rice to be separate and fluffy. Grains do not stick or break when cooked.",
+   "No Artificial Colours or Flavours: Delhi Pasand Basmati Rice is free from any artificial colours or flavours, making it a healthy and delicious choice for any meal.",
+   "Long shelf life: Delhi Pasand Basmati Rice has a long shelf life, which makes it an ideal choice for bulk purchasing."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/delhi-pasand-tibar/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/delhi-pasand-tibar/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/delhi-pasand-tibar/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "delhi-pasand-tune",
+  "name": "Delhi Pasand Tune",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Delhi Pasand Tune is tailored for ease and speed in modern kitchens.",
+  "about": [
+   "Delhi Pasand Tune is tailored for ease and speed in modern kitchens. With evenly cut grains and a smooth texture, it simplifies rice preparation for busy households. Whether you're cooking for one or many, Tune offers dependable performance with a soft finish and subtle aroma that fits any daily dish."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/delhi-pasand-tune/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/delhi-pasand-tune/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/delhi-pasand-tune/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "inaya-divine",
+  "name": "Divine",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Divine Rice lives up to its name by delivering a premium culinary experience with every grain.",
+  "about": [
+   "Divine Rice lives up to its name by delivering a premium culinary experience with every grain. Featuring slender grains and a rich aroma, it cooks to a fluffy, elegant texture perfect for special dishes. Divine Rice is naturally aged and meticulously processed to ensure high elongation, zero stickiness, and consistent flavor, making every meal a celebration."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/inaya-divine/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/inaya-divine/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/inaya-divine/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "dosa-rice",
+  "name": "Dosa Rice",
+  "families": [
+   "Regional"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Dosa Rice is specially selected for preparing South Indian delicacies like dosa.",
+  "about": [
+   "Dosa Rice is specially selected for preparing South Indian delicacies like dosa. With medium-to-short grains and high starch content, it soaks and grinds easily to create a smooth batter. This rice offers crisp dosas. It's a staple in every South Indian kitchen due to its consistency and performance."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/dosa-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/dosa-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "double-chabi-golden-sella-basmati",
+  "name": "Double Chabi Golden Sella",
+  "families": [
+   "Basmati",
+   "Golden Sella",
+   "Biryani"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Aged golden sella with a signature fragrance, made for rich rice dishes.",
+  "about": [
+   "Double Chabi is a well-known Basmati rice variety that offers extra-long grains, signature fragrance, and excellent cooking characteristics. It elongates beautifully while cooking, resulting in a fluffy, non-sticky texture ideal for biryani and other rich rice dishes. Aged for enhanced aroma and texture, Double Chabi represents quality and tradition, making it a popular choice for festive meals."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/double-chabi-golden-sella-basmati/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/double-chabi-golden-sella-basmati/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/double-chabi-golden-sella-basmati/grain-2.webp",
+    "type": "grain"
+   }
+  ],
+  "facts": {
+   "grain": "Extra-long grain",
+   "cooks": "Fluffy, non-sticky, elongates",
+   "knownFor": "Biryani and festive meals"
+  }
+ },
+ {
+  "slug": "gauri-old",
+  "name": "Gauri Old",
+  "families": [
+   "Basmati",
+   "Biryani"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Aged premium basmati with a delicate aroma.",
+  "about": [
+   "Gauri Premium Basmati rice is renowned for its exceptional aroma, flavor, and fluffy texture, leaving a lasting impression. This rice guarantees premium quality and high nutritional value, ensuring a delightful culinary experience from pulao to biryani. It has undergone meticulous aging, Grown in the Himalayan foothills, amidst lush green paddy fields, to be celebrated for its delicate aroma, long grain length, and delightful taste. Processed using cutting-edge technology and rigorous quality control, this rice offers unmatched quality. This rice tastes best when served in various ways, such as plain rice, fried rice, pulao, or biryani, to cater to different culinary preferences. It's an Old Crop, Better for commercial purposes, gives a high yield compared to other brands"
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/gauri-old/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/gauri-old/grain-2.webp",
+    "type": "grain"
+   }
+  ],
+  "facts": {
+   "grain": "Long grain",
+   "cooks": "Aged, fluffy",
+   "knownFor": "Pulao to biryani"
+  }
+ },
+ {
+  "slug": "gauri-sona-masoori",
+  "name": "Gauri Sona Masoori",
+  "families": [
+   "Regional",
+   "Sona Masoori"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Lightweight, sweet-smelling medium grain for pongal, idli, biryani and fried rice.",
+  "about": [
+   "It is Raw Rice is medium-grain rice. It is lightweight and sweet-smelling and measured to be of the finest quality. It has a distinctive taste that is not matched by rice from any other region. It is the tastiest of all the Sona Masoori rice available in the state. Sona Masoori is largely considered to be a healthy dish as it contains less starch and is easily digestible. It is ideal rice to be used for sweet Pongal, biryani, idlis and fried rice."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/gauri-sona-masoori/closeup.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "gobindobhog-broken",
+  "name": "Gobindobhog Broken",
+  "families": [
+   "Basmati",
+   "Aromatic"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "All the fragrance of whole Gobindobhog, in softer broken grains.",
+  "about": [
+   "GobindoBhog Broken offers the same taste and aroma as whole GobindoBhog but at a more economical price. The smaller broken grains are ideal for soft-textured dishes like pongal, payesh, or baby food. Despite the size, it retains its unique fragrance and creamy finish, offering value without compromising on traditional flavor and cooking ease."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/gobindobhog-broken/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/gobindobhog-broken/grain-2.webp",
+    "type": "grain"
+   }
+  ],
+  "facts": {
+   "grain": "Small broken grain",
+   "cooks": "Creamy, fragrant",
+   "knownFor": "Payesh, pongal, baby food"
+  }
+ },
+ {
+  "slug": "gobindobhog-premium-red-rose",
+  "name": "Gobindobhog Old",
+  "families": [
+   "Regional",
+   "Aromatic"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "GobindoBhog Old is a premium aromatic rice from West Bengal, known for its small, pearly white grains and sweet aroma.",
+  "about": [
+   "GobindoBhog Old is a premium aromatic rice from West Bengal, known for its small, pearly white grains and sweet aroma. Aged for deeper flavor and better cooking results, this variety is ideal for khichdi, payesh, and festive Bengali dishes. Its unique fragrance and soft texture set it apart from other short-grain rice types."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/gobindobhog-premium-red-rose/closeup.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "hari-patti-mini-mogra",
+  "name": "Hari Patti Mini Mogra",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Mini mogra rice is broken basmati grains and is ideal for making Khichadi and Fried Rice.",
+  "about": [
+   "Mini mogra rice is broken basmati grains and is ideal for making Khichadi and Fried Rice. Mini Mogra variety is highly sought after for its superior quality and fluffy texture.PB 1121 is a long, slender, and fragrant Basmati variety of Rice. When cooked, the rice does not turn sticky and possesses minimal"
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/hari-patti-mini-mogra/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/hari-patti-mini-mogra/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "hari-patti-mogra",
+  "name": "Hari Patti Mogra",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Light, fluffy grains with a distinct mogra fragrance, for biryani, pulao and khichdi.",
+  "about": [
+   "Long, Fluffy Grains: Ensures each grain cooks separately and remains light and fluffy, perfect for elegant presentations.",
+   "Aromatic Flavor: The distinct Mogra fragrance elevates the taste of your dishes, providing an enhanced culinary experience.",
+   "Versatile Cooking: Ideal for making biryani, pulao, steamed rice, khichdi, and more, perfect for both daily and special occasions."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/hari-patti-mogra/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/hari-patti-mogra/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "hari-patti-natural",
+  "name": "Hari Patti Natural",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Hari Patti Natural Basmati is a fragrant, naturally grown rice variety that preserves the wholesome qualities of traditional farming, with…",
+  "about": [
+   "Hari Patti Natural Basmati is a fragrant, naturally grown rice variety that preserves the wholesome qualities of traditional farming, with slender, long grains and a subtle, earthy aroma. It cooks fluffy and separate, making it suitable for light pulao, steamed rice, and vegetarian meals."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/hari-patti-natural/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/hari-patti-natural/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/hari-patti-natural/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "hari-patti-super-tibar",
+  "name": "Hari Patti Super Tibar",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Hari Patti Super Tibar is pure and authentic basmati rice.",
+  "about": [
+   "Hari Patti Super Tibar is pure and authentic basmati rice. Its grains are aromatic. It gives every dish an authentic taste, especially basmati pulao. This rice is milled and packed in very high-tech and state-of-the-art facilities. It can be used for all types of Pulao & is suitable for all festive occasions"
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/hari-patti-super-tibar/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/hari-patti-super-tibar/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "hari-patti-tibar",
+  "name": "Hari Patti Tibar",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Hari Patti Tibar is basmati is from the foothills of the Himalayas.",
+  "about": [
+   "Hari Patti Tibar is basmati is from the foothills of the Himalayas. It is known for its great texture, fluffiness, and good taste. Indulge in the sublime experience of Hari Patti Tibar Basmati Rice, the ultimate ingredient to enliven your everyday meals. Free from gluten and packaged with utmost hygiene, it's a nourishing option for your body and soul. The exquisite taste of Hari Patti Tibar Basmati Rice enhances the essence of your everyday recipes."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/hari-patti-tibar/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/hari-patti-tibar/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "haryana-no1-lajeez",
+  "name": "Haryana No.1 Lajeez",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Tibar basmati, fluffy and aromatic, for biryani and pulao.",
+  "about": [
+   "Tibar Basmati rice, a specific grade of long-grain rice, is available from Haryana No. 1. It's known for its fluffy texture and aromatic flavor, making it a popular choice for dishes like biryanis and pilafs. Tibar Basmati rice has grains broken to about 60-75% of the original length."
+  ],
+  "hasGrain": false,
+  "photos": [
+   {
+    "src": "/rice/haryana-no1-lajeez/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/haryana-no1-lajeez/side.webp",
+    "type": "side"
+   }
+  ]
+ },
+ {
+  "slug": "heritage-basmati-rice-super-xl",
+  "name": "Heritage Basmati Rice Super XL",
+  "families": [],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Heritage Basmati Rice Super XL is premium-quality basmati rice featuring extra-long grains, a rich natural aroma, and a light, fluffy texture…",
+  "about": [
+   "Heritage Basmati Rice Super XL is premium-quality basmati rice featuring extra-long grains, a rich natural aroma, and a light, fluffy texture after cooking. Perfect for biryani, pulao, and festive meals, it delivers exceptional taste, elegant presentation, and consistent quality, making every dish truly memorable."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/heritage-basmati-rice-super-xl/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/heritage-basmati-rice-super-xl/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "idli-rice",
+  "name": "Idli Rice",
+  "families": [
+   "Regional"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "26 kg"
+  ],
+  "line": "Idli Rice is a specialty rice type with a starchy texture perfect for idli.",
+  "about": [
+   "Idli Rice is a specialty rice type with a starchy texture perfect for idli. Its grains soak well, grind smoothly, and ferment naturally, ensuring fluffy idlis. This rice variety is a staple across South India, known for producing soft, spongy textures in steamed recipes. Also used in uttapam, appam, and paniyaram, it delivers both taste and performance."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/idli-rice/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/idli-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/idli-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "inaya-1121-enjoy",
+  "name": "Inaya 1121 Enjoy",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Inaya 1121 Enjoy Rice is premium-quality basmati rice with extra-long grains, a delightful natural aroma, and a soft, fluffy texture after cooking.",
+  "about": [
+   "Inaya 1121 Enjoy Rice is premium-quality basmati rice with extra-long grains, a delightful natural aroma, and a soft, fluffy texture after cooking. Ideal for biryani, pulao, fried rice, and everyday meals, it delivers rich taste, consistent quality, and an enjoyable dining experience in every serving."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/inaya-1121-enjoy/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/inaya-1121-enjoy/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "inaya-1121-lotus",
+  "name": "Inaya 1121 Lotus",
+  "families": [],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Inaya 1121 Lotus Rice offers premium long grains, rich aroma, and fluffy texture.",
+  "about": [
+   "Inaya 1121 Lotus Rice offers premium long grains, rich aroma, and fluffy texture. Perfect for biryani, pulao, and everyday meals with exceptional taste and quality."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/inaya-1121-lotus/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/inaya-1121-lotus/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "inaya-enjoy-rice",
+  "name": "Inaya Enjoy Rice",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Enjoy Rice is a broken-grain Basmati variety that offers good aroma and taste at a low cost.",
+  "about": [
+   "Enjoy Rice is a broken-grain Basmati variety that offers good aroma and taste at a low cost. Best for homestyle rice preparations, khichdi, or tamarind rice, it offers quick cooking and good volume, making it popular for households and budget eateries."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/inaya-enjoy-rice/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/inaya-enjoy-rice/closeup.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "inaya-lotus-rice",
+  "name": "Inaya Lotus Rice",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Fluffy and aromatic, for pulao and daily meals.",
+  "about": [
+   "Lotus Rice rice, a specific grade of rice. It's known for its fluffy texture and aromatic flavor, making it a popular choice for dishes like Pulav. And Best for Daily Consumption"
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/inaya-lotus-rice/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/inaya-lotus-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/inaya-lotus-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "india-gate-sona-mansoori",
+  "name": "India Gate Sona Mansoori",
+  "families": [
+   "Regional",
+   "Sona Masoori"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "India Gate Sona Masoori Rice is a medium-grain, aromatic rice that is lightweight.",
+  "about": [
+   "India Gate Sona Masoori Rice is a medium-grain, aromatic rice that is lightweight. It is largely cultivated in the Deccan rich belt of Telangana, Andhra Pradesh and Karnataka. It is typically used in preparation of delectable dishes such as sweet pongal, biryani and fried rice. It makes flavorful and palatable meals which fits it to your regular daily dinings. A miracle fed by the pristine waters of Deccan Rivers, nurtured by the air and soil of south India, encasing the aroma and taste in every grain of rice. The best harvest of the region is identified and then quality tested – before it’s send for cleaning, milling and packaging at India’s most advance and high end rice manufacturing plant."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/india-gate-sona-mansoori/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/india-gate-sona-mansoori/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/india-gate-sona-mansoori/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "jammu-rice",
+  "name": "Jammu Rice",
+  "families": [
+   "Basmati",
+   "Aromatic"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Patiently aged basmati with a rich aroma.",
+  "about": [
+   "the world’s most premium Basmati rice, rich with exquisite aroma and delectable taste. Each grain of the Jammu Rice is aged with patience to make it more flavourful."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/jammu-rice/closeup.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "kalanamak-rice",
+  "name": "Kalanamak Rice",
+  "families": [],
+  "sizes": [
+   "1 kg"
+  ],
+  "line": "Named after its black husk, with a history in Eastern Uttar Pradesh that goes back to around 600 BC.",
+  "about": [
+   "Kalanamak rice, deriving its name from the black husk paddy it originates from, holds a distinguished position in the agricultural and culinary traditions of Eastern Uttar Pradesh, India, and Nepal’s Tarai region. Its history traces back to approximately 600 BC during the Buddhist era, signifying its deep-rooted heritage and cultural significance.",
+   "This traditional rice variety is renowned for its exceptional qualities, often surpassing even the famed Basmati rice in various aspects. While Kalanamak rice may not match Basmati in grain length, it compensates with its unique attributes. It boasts a soft texture, making it easily digestible, and exhibits a remarkable shelf life, ensuring prolonged enjoyment for consumers."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/kalanamak-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/kalanamak-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "kali-mooch",
+  "name": "Kali Mooch",
+  "families": [
+   "Regional",
+   "Aromatic"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "A traditional Indian cultivar with a light colour and a fragrance of its own.",
+  "about": [
+   "Kali Mooch is a Non- Basmati aromatic, short to medium grain rice. A traditional Indian cultivar Kali mooch is nurtured in the rich soil. It has a unique texture and light colour appearance. Light-weight and easy to digest are the qualities that make it popular among Indian rice."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/kali-mooch/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/kali-mooch/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/kali-mooch/grain-2.webp",
+    "type": "grain"
+   }
+  ],
+  "facts": {
+   "grain": "Short to medium grain",
+   "cooks": "Light and easy to digest",
+   "knownFor": "Everyday aromatic meals"
+  }
+ },
+ {
+  "slug": "katarni-steam",
+  "name": "Katarni Steam",
+  "families": [],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Katarni Steam Rice is a premium aromatic rice known for its distinctive fragrance, soft texture, and authentic taste.",
+  "about": [
+   "Katarni Steam Rice is a premium aromatic rice known for its distinctive fragrance, soft texture, and authentic taste. Carefully steam-processed to preserve its natural goodness, it is perfect for traditional dishes and everyday meals, delivering rich flavor, excellent quality, and a delightful dining experience in every bite."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/katarni-steam/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/katarni-steam/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "khaajana-rice",
+  "name": "Khaajana Rice",
+  "families": [],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "26 kg"
+  ],
+  "line": "Khaajana Rice is a popular variety of non-Basmati rice that is widely cultivated in North India.",
+  "about": [
+   "Khaajana Rice is a popular variety of non-Basmati rice that is widely cultivated in North India. It cooks faster and absorbs flavors efficiently, making it ideal for daily meals, fried rice, and curries. Known for its affordability, PR 11 rice delivers fluffy texture and consistent results, especially in mid-scale kitchens and community dining."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/khaajana-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/khaajana-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "kolaberi-rice",
+  "name": "Kolaberi Rice",
+  "families": [
+   "Regional",
+   "Parboiled"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Kolaberi Rice is a regional variety popular for its semi-bold grains and subtle flavor.",
+  "about": [
+   "Kolaberi Rice is a regional variety popular for its semi-bold grains and subtle flavor. It is mostly used in South Indian homes for everyday cooking. The grains cook to a soft, fluffy finish, best for making Idlis and are also suitable for dishes like sambar rice, rasam rice, or mixed vegetable rice. Kolaberi stands out for its affordability, ease of cooking, and versatility."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/kolaberi-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/kolaberi-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "kolam-raw",
+  "name": "Kolam Raw",
+  "families": [
+   "Regional"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Quick-cooking and easy to digest, loved in Maharashtra and Gujarat.",
+  "about": [
+   "Kolam Raw Rice is a small-to-medium grain rice widely consumed in Maharashtra and Gujarat. Known for its soft texture and neutral flavor, it cooks quickly and is ideal for regular meals, lemon rice, or khichdi. It’s easy to digest and suitable for all age groups. This rice is preferred for its economical pricing and consistency in cooking."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/kolam-raw/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/kolam-raw/grain-2.webp",
+    "type": "grain"
+   }
+  ],
+  "facts": {
+   "grain": "Small to medium grain",
+   "cooks": "Soft, neutral, quick",
+   "knownFor": "Lemon rice, khichdi"
+  }
+ },
+ {
+  "slug": "kp-diksha-royal",
+  "name": "KP-Diksha Royal",
+  "families": [],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "KP Premium Quality Rice – Diksha Royal is a premium rice variety known for its superior quality, fine grains, and delightful taste.",
+  "about": [
+   "KP Premium Quality Rice – Diksha Royal is a premium rice variety known for its superior quality, fine grains, and delightful taste. It cooks soft, fluffy, and aromatic, making it perfect for everyday meals as well as special occasions. Enjoy consistent quality, rich flavor, and an exceptional dining experience in every serving."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/kp-diksha-royal/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/kp-diksha-royal/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "kp-diksha-silver",
+  "name": "KP-Diksha Silver",
+  "families": [],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "KP Premium Quality Rice – Diksha Silver is a high-quality rice with carefully selected grains that cook soft, fluffy, and delicious.",
+  "about": [
+   "KP Premium Quality Rice – Diksha Silver is a high-quality rice with carefully selected grains that cook soft, fluffy, and delicious. Ideal for daily meals, it offers consistent quality, pleasant taste, and excellent value. Perfect for a variety of Indian dishes, it brings freshness and satisfaction to every plate."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/kp-diksha-silver/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/kp-diksha-silver/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "kp-diksha-supreme-sona-rice",
+  "name": "KP-Diksha Supreme Sona Rice",
+  "families": [],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "KP Premium Quality Rice – Diksha Supreme Sona Rice is carefully selected for its uniform grains, soft texture, and delicious taste.",
+  "about": [
+   "KP Premium Quality Rice – Diksha Supreme Sona Rice is carefully selected for its uniform grains, soft texture, and delicious taste. It cooks fluffy and light, making it ideal for everyday meals, pulao, and a variety of Indian dishes. Enjoy consistent quality, great value, and satisfying flavor in every serving."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/kp-diksha-supreme-sona-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/kp-diksha-supreme-sona-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "lahori-gate-rozana",
+  "name": "Lahori Gate Rozana",
+  "families": [
+   "Basmati",
+   "Staff"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "A dependable daily basmati for regular Indian meals.",
+  "about": [
+   "Lahori Gate Rozana is a daily-use Basmati rice offering medium-length grains with light aroma and soft texture. It’s a dependable variety for regular Indian meals like dal-chawal or simple pulao. Rozana balances affordability with traditional flavor, making it ideal for households and cost-effective option for day-to-day consumption."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/lahori-gate-rozana/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/lahori-gate-rozana/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/lahori-gate-rozana/grain-2.webp",
+    "type": "grain"
+   }
+  ],
+  "facts": {
+   "grain": "Medium-length grain",
+   "cooks": "Soft, light aroma",
+   "knownFor": "Dal-chawal, simple pulao"
+  }
+ },
+ {
+  "slug": "naira-zeeba-golden-sella-mongra",
+  "name": "Naira Zeeba Golden Mongra",
+  "families": [
+   "Basmati",
+   "Golden Sella"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Parboiled, aged golden sella for daily kitchens.",
+  "about": [
+   "This range includes premium golden sella Basmati rice varieties from brands like Naira and Zeeba. Known for their long, golden-yellow grains, these rice types are parboiled and aged for superior taste. They are best for daily consumption and pocket-friendly rice"
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/naira-zeeba-golden-sella-mongra/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/naira-zeeba-golden-sella-mongra/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/naira-zeeba-golden-sella-mongra/grain-2.webp",
+    "type": "grain"
+   }
+  ],
+  "facts": {
+   "grain": "Golden-yellow grain",
+   "cooks": "Parboiled and aged",
+   "knownFor": "Daily, pocket-friendly cooking"
+  }
+ },
+ {
+  "slug": "naira-zeeba-golden-sella-tibar",
+  "name": "Naira Zeeba Golden Sella Tibar",
+  "families": [
+   "Basmati",
+   "Golden Sella"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "This variant includes slightly broken grains of Golden Sella Basmati, offering the same flavor and fragrance at a more economical rate.",
+  "about": [
+   "This variant includes slightly broken grains of Golden Sella Basmati, offering the same flavor and fragrance at a more economical rate. It’s perfect for bulk cooking, biryani preps, or flavorful rice dishes in large kitchens. Despite being a broken grain version, it delivers high quality, good volume, and taste."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/naira-zeeba-golden-sella-tibar/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/naira-zeeba-golden-sella-tibar/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/naira-zeeba-golden-sella-tibar/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "parmal-no-1",
+  "name": "Parmal no. 1",
+  "families": [
+   "Staff",
+   "Regional"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "A fast-cooking, neutral rice for daily meals and large batches.",
+  "about": [
+   "Parmal No. 1 is a popular variety of non-Basmati rice with fast cooking time. It’s widely used for daily meals, especially in North Indian households. Known for its affordability and neutral flavor, Parmal No. 1 is suitable for dal-chawal combos or mass meal preparation."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/parmal-no-1/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/parmal-no-1/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "parmal-no-3",
+  "name": "Parmal no. 3",
+  "families": [
+   "Staff",
+   "Regional"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "An economical, soft rice for bulk cooking, tomato rice and curd rice.",
+  "about": [
+   "Parmal No. 3 is a slightly more affordable alternative to No. 1, often featuring slightly smaller grains. It's an economical choice for bulk rice dishes like plain rice, tomato rice, or curd rice. It retains a soft texture after cooking, making it useful for hostel messes, langars, and food camps."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/parmal-no-3/closeup.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "patanjali-mini-mogra-blue",
+  "name": "Patanjali Mini Mogra Blue",
+  "families": [
+   "Basmati",
+   "Staff"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Mini mogra rice are broken basmati grains and are ideal for making Khichadi and Fried Rice.",
+  "about": [
+   "Mini mogra rice are broken basmati grains and are ideal for making Khichadi and Fried Rice. Patanjali Shakti Rice XXL Mini Mogra (Pusa Basmati 1121) variety is highly sought after for its superior quality and fluffy texture.PB 1121 is a long, slender, and fragrant Basmati variety of Rice. When cooked, the rice does not turn sticky and possesses minimum"
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/patanjali-mini-mogra-blue/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/patanjali-mini-mogra-blue/closeup.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "patanjali-shakti-mogra-rice",
+  "name": "Patanjali Shakti Mogra Rice",
+  "families": [
+   "Basmati",
+   "Staff"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Mogra are broken rice grains less than 60% of the full length of the rice grain.",
+  "about": [
+   "Mogra are broken rice grains less than 60% of the full length of the rice grain. Patanjali Shakti Rice Mogra (Pusa Basmati 1121) variety is highly sought after for its superior quality, slender grains, and fluffy texture. PB 1121 is a long, slender, and fragrant Basmati variety of Rice. When cooked, the rice does not turn sticky, and possesses minimum breadth-wise expansion. Cooked rice is fluffy white with pleasant aroma and very tasty to eat."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/patanjali-shakti-mogra-rice/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/patanjali-shakti-mogra-rice/closeup.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "patliputra-farm-katarni-steam",
+  "name": "Patliputra Farm Katarni Steam",
+  "families": [
+   "Regional",
+   "Sona Masoori"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "26 kg"
+  ],
+  "line": "Katarni Raw Rice is a Unique Tasting, Aromatic, Short Grain Rice Grown in India, in The State of Bihar.",
+  "about": [
+   "Katarni Raw Rice is a Unique Tasting, Aromatic, Short Grain Rice Grown in India, in The State of Bihar. It contains a balanced amount of carbohydrates and fibre and is also a good source of some vitamins and minerals."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/patliputra-farm-katarni-steam/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/patliputra-farm-katarni-steam/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/patliputra-farm-katarni-steam/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "pavizham-short-matta-rice",
+  "name": "Pavizham Short Matta Rice",
+  "families": [
+   "Regional"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "26 kg"
+  ],
+  "line": "This variant of Pavizham Matta rice features shorter grains with the same nutritional benefits and bold flavor.",
+  "about": [
+   "This variant of Pavizham Matta rice features shorter grains with the same nutritional benefits and bold flavor. Ideal for traditional Kerala dishes like kanji, payasam, or sambar rice, it is rich in iron and nutrients due to its bran layer. It’s a wholesome alternative to polished white rice."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/pavizham-short-matta-rice/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/pavizham-short-matta-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/pavizham-short-matta-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "pavizham-wadi-matta-rice",
+  "name": "Pavizham Wadi Matta",
+  "families": [
+   "Regional"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "26 kg"
+  ],
+  "line": "A traditional red rice from Kerala, naturally parboiled.",
+  "about": [
+   "Pavizham Wadi Matta is a traditional red rice variety from Kerala with long grains and high fiber content. Rich in nutrients and naturally parboiled, it offers a distinct earthy flavor and chewy texture. It is a staple in Kerala meals, served with curries, fish fry, and coconut-based gravies. It’s also valued for its health benefits."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/pavizham-wadi-matta-rice/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/pavizham-wadi-matta-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/pavizham-wadi-matta-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ],
+  "facts": {
+   "grain": "Long-grain red matta",
+   "cooks": "Earthy, chewy, high fibre",
+   "knownFor": "Kerala curries, fish fry"
+  }
+ },
+ {
+  "slug": "perfect-sela",
+  "name": "Perfect Sela",
+  "families": [
+   "Basmati",
+   "Golden Sella",
+   "Biryani"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Perfect Sella is a premium parboiled Basmati rice known for its long grains, golden hue, and unmatched aroma.",
+  "about": [
+   "Perfect Sella is a premium parboiled Basmati rice known for its long grains, golden hue, and unmatched aroma. The grains remain firm, separate, and fluffy even after cooking, making it perfect for biryani and pulao. The parboiling process enhances its texture, nutritional value, and shelf life, making it a favorite for hospitality and catering use."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/perfect-sela/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/perfect-sela/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/perfect-sela/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "ponni-rice",
+  "name": "Ponni Rice",
+  "families": [],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Ponni Rice is a premium-quality rice variety prized for its soft texture, rich taste, and excellent cooking quality.",
+  "about": [
+   "Ponni Rice is a premium-quality rice variety prized for its soft texture, rich taste, and excellent cooking quality. Light, fluffy, and easy to digest, it is ideal for everyday meals, steamed rice, and traditional South Indian dishes. Enjoy consistent quality, wholesome goodness, and delicious flavor in every serving."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/ponni-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/ponni-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "punjab-ratan",
+  "name": "Punjab Ratan",
+  "families": [
+   "Basmati",
+   "Biryani"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Punjab Ratan is a quality rice offering with long grains and a mild aroma, designed for everyday use.",
+  "about": [
+   "Punjab Ratan is a quality rice offering with long grains and a mild aroma, designed for everyday use. It cooks up fluffy and non-sticky, making it perfect for thalis, pulao, and routine North Indian meals. This variety combines value, taste, and texture to meet the needs of large families and food services."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/punjab-ratan/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/punjab-ratan/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/punjab-ratan/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "rani-sahiba-old",
+  "name": "Rani Sahiba Old",
+  "families": [
+   "Basmati",
+   "Biryani"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Elevate your biryani with Rani Sahiba premium rice, crafted with care and precision, this rice variety is meticulously chosen to enhance the rich…",
+  "about": [
+   "Elevate your biryani with Rani Sahiba premium rice, crafted with care and precision, this rice variety is meticulously chosen to enhance the rich flavors, fragrant spices, and tender meats that define the art of biryani."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/rani-sahiba-old/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/rani-sahiba-old/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/rani-sahiba-old/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "red-rice",
+  "name": "Red Rice",
+  "families": [
+   "Healthy"
+  ],
+  "sizes": [
+   "1 kg"
+  ],
+  "line": "Reddish-brown Himalayan grain with a nutty taste.",
+  "about": [
+   "Himalayan red rice is a type of rice known for its distinctive reddish-brown color and nutty flavor. Red rice is a fascinating variety of rice that stands out due to its vibrant red color, which it owes to its anthocyanin content."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/red-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/red-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ],
+  "facts": {
+   "grain": "Himalayan red rice",
+   "cooks": "Nutty flavour",
+   "knownFor": "Colour from anthocyanin"
+  }
+ },
+ {
+  "slug": "resort-a1-sella",
+  "name": "Resort A1 Sella",
+  "families": [
+   "Basmati",
+   "Golden Sella",
+   "Parboiled"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Resort Basmati Rice undergoes special aging and processing with an emphasis on the hospitality industry’s standards.",
+  "about": [
+   "Resort Basmati Rice undergoes special aging and processing with an emphasis on the hospitality industry’s standards. The rice offers long, uniform grains, a rich aroma, and exceptional taste. It is intended for buffets and fine dining as it includes Golden, White, and Steam variants which are designed to elevate the dish’s culinary presentation, flavour, and consistency spanning Indian and Asian as well as global cuisines"
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/resort-a1-sella/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/resort-a1-sella/closeup.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "royal-bullet-gold-lachkari-vada-kollam-sortex-rice",
+  "name": "Royal Bullet - Gold Lachkari Vada Kollam Sortex Rice",
+  "families": [],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Royal Bullet Brand Jai Shree Ram Gold Lachkari Vada Kollam Sortex Rice is premium sortex-cleaned rice with carefully selected grains, known for…",
+  "about": [
+   "Royal Bullet Brand Jai Shree Ram Gold Lachkari Vada Kollam Sortex Rice is premium sortex-cleaned rice with carefully selected grains, known for its purity, excellent taste, and soft, fluffy texture. Ideal for everyday meals and traditional recipes, it delivers consistent quality, freshness, and a delightful dining experience in every serving."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/royal-bullet-gold-lachkari-vada-kollam-sortex-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/royal-bullet-gold-lachkari-vada-kollam-sortex-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "royal-bullet-original-lachkari-vada-kolam-jeeera-rice",
+  "name": "Royal Bullet - Original Lachkari Vada Kolam Jeeera Rice",
+  "families": [],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Royal Bullet Original Lachkari Vada Kolam Jeera Rice is a premium-quality rice with short, aromatic grains and a soft, fluffy texture after cooking.",
+  "about": [
+   "Royal Bullet Original Lachkari Vada Kolam Jeera Rice is a premium-quality rice with short, aromatic grains and a soft, fluffy texture after cooking. Perfect for jeera rice, khichdi, pulao, and everyday meals, it offers authentic taste, consistent quality, and excellent cooking performance in every serving."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/royal-bullet-original-lachkari-vada-kolam-jeeera-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/royal-bullet-original-lachkari-vada-kolam-jeeera-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "shezada-red",
+  "name": "Shezada Rice",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "35 kg"
+  ],
+  "line": "Shezada Rice is Long-Grain Basmati Rice is renowned for its exquisite aroma, distinctive flavor, and slender, elongated grains.",
+  "about": [
+   "Shezada Rice is Long-Grain Basmati Rice is renowned for its exquisite aroma, distinctive flavor, and slender, elongated grains. Sourced from the finest paddy fields and aged to perfection, this premium rice variety adds a touch of elegance to your culinary creations."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/shezada-red/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/shezada-red/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/shezada-red/grain-2.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/shezada-red/grain-3.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "shezada-white-jute-bag",
+  "name": "Shezada White",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Long clean grains, packed in a classic jute bag.",
+  "about": [
+   "Packaged in a classic jute bag, Shezada White Rice symbolizes premium quality and tradition. It features long, clean grains that cook separate and fluffy. This variety is great for festive dishes and everyday rice servings. Its elegant packaging also makes it a popular gift during cultural celebrations."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/shezada-white-jute-bag/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/shezada-white-jute-bag/grain-2.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/shezada-white-jute-bag/grain-3.webp",
+    "type": "grain"
+   }
+  ],
+  "facts": {
+   "grain": "Long, clean grain",
+   "cooks": "Separate and fluffy",
+   "knownFor": "Festive dishes, everyday rice"
+  }
+ },
+ {
+  "slug": "sonam",
+  "name": "Sonam",
+  "families": [
+   "Regional"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "26 kg"
+  ],
+  "line": "A medium-grain variety popular in West Bengal and neighbouring states.",
+  "about": [
+   "A medium-grain variety popular in West Bengal and neighbouring states. It has a mild flavour, soft texture, and is an affordable everyday rice. Often used for cooking plain rice, khichdi, and puffed rice snacks.",
+   "Everyday staple, Light texture, Affordable",
+   "Nutrition: Standard white rice profile: ~345 kcal, ~76g carbs, ~7g protein. Contains B vitamins and trace minerals."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/sonam/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/sonam/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "sonam-usna",
+  "name": "Sonam Usna",
+  "families": [
+   "Regional"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "26 kg"
+  ],
+  "line": "Sonam Usna is a parboiled rice variant known for its small, thin grains and sturdy texture.",
+  "about": [
+   "Sonam Usna is a parboiled rice variant known for its small, thin grains and sturdy texture. It’s commonly used in Eastern India for dishes like khichdi, steamed rice, or bhat. The parboiling enhances shelf life and nutrient retention, making Sonam Usna a hearty and economical option for large families."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/sonam-usna/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/sonam-usna/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ },
+ {
+  "slug": "south-sona-mansoori-rice",
+  "name": "South Sona Mansoori",
+  "families": [
+   "Regional",
+   "Sona Masoori"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "26 kg"
+  ],
+  "line": "A South Indian staple with a light texture for every day.",
+  "about": [
+   "Amma Sona Mansoori Rice is a medium-grain rice variety popular in South India. Known for its light texture and slightly starchy flavor, it's perfect for daily meals, idli, dosa, and pongal."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/south-sona-mansoori-rice/back.webp",
+    "type": "back"
+   },
+   {
+    "src": "/rice/south-sona-mansoori-rice/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/south-sona-mansoori-rice/grain-2.webp",
+    "type": "grain"
+   }
+  ],
+  "facts": {
+   "grain": "Medium grain",
+   "cooks": "Light, slightly starchy",
+   "knownFor": "Daily meals, idli, dosa, pongal"
+  }
+ },
+ {
+  "slug": "zeeba-classic",
+  "name": "Zeeba Classic",
+  "families": [
+   "Basmati"
+  ],
+  "sizes": [
+   "1 kg",
+   "5 kg",
+   "10 kg",
+   "30 kg"
+  ],
+  "line": "Zeeba classic is authentic basmati rice that brings out the authentic taste in every dish.",
+  "about": [
+   "Zeeba classic is authentic basmati rice that brings out the authentic taste in every dish. It is specially aged to acquire the best basmati characteristics. Zeeba classic basmati grains are pure and original. It is grown in foothills of the Himalayas. The rice is milled using world-class machines to retain all the natural goodness. The unique basmati aroma makes the Zeeba Classic most delicious rice. Zeeba classic is truly pure rice with extra long beautiful grains which add nourishment to every dish and make each meal a royal feast."
+  ],
+  "hasGrain": true,
+  "photos": [
+   {
+    "src": "/rice/zeeba-classic/grain-1.webp",
+    "type": "grain"
+   },
+   {
+    "src": "/rice/zeeba-classic/grain-2.webp",
+    "type": "grain"
+   }
+  ]
+ }
+]
