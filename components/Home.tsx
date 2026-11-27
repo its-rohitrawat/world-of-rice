@@ -1,6 +1,6 @@
 'use client';
 import Link from 'next/link';
-import { useRef } from 'react';
+import { useRef, type CSSProperties } from 'react';
 import Catalogue from './Catalogue';
 import Dishes from './Dishes';
 import Families, { type Family } from './Families';
@@ -35,7 +35,7 @@ export default function Home({ products, featured, families }: { products: Produ
     // the heap stands in front of the cards, so they rise out of the rice
     ScrollTrigger.create({ trigger: '.fam-wrap', start: 'top 45%', end: 'bottom top', toggleClass: { targets: '.field', className: 'front' } });
     // the next section slides up over the cards screen; once it covers it, the grains stop drawing
-    ScrollTrigger.create({ trigger: '.lap', start: 'top top', end: 'max', onToggle: s => { field.on = !s.isActive; } });
+    ScrollTrigger.create({ trigger: '.lap', start: 'top top', end: 'max', onToggle: s => { field.on = !s.isActive; root.current?.querySelector('.backdrop')?.classList.toggle('off', s.isActive); } });
 
     // Page colour follows the section.
     gsap.utils.toArray<HTMLElement>('[data-bg]', root.current).forEach(el =>
@@ -111,6 +111,7 @@ export default function Home({ products, featured, families }: { products: Produ
 
   return (
     <div ref={root}>
+      <div className="backdrop" aria-hidden="true" />
       <GrainField />
       <div className="veil" ref={veil} aria-hidden="true" />
 
@@ -133,7 +134,6 @@ export default function Home({ products, featured, families }: { products: Produ
         <div className="hero-in">
           <div>
             <h1 className="hero-line">Choose rice by the grain.</h1>
-            <p className="hero-side">Over 150 varieties in our Gurugram store. {products.length} of them here.</p>
           </div>
           <div className="btns">
             <Link className="btn" href="#catalogue">See all rice</Link>
@@ -156,7 +156,7 @@ export default function Home({ products, featured, families }: { products: Produ
 
       <section className="sec lap" data-bg={colour.cream} data-dark="0" data-start="top top"><Dishes products={products} /></section>
 
-      <section className="sec" id="story" data-bg={colour.sienna} data-dark="1">
+      <section className="sec solid" id="story" data-bg={colour.sienna} data-dark="1" style={{ '--sec': colour.sienna } as CSSProperties}>
         <div className="tale">
           <h2 className="rise"><span>Built by time, understanding, and devotion to rice.</span></h2>
           <div className="tale-cols rise">
@@ -168,7 +168,7 @@ export default function Home({ products, featured, families }: { products: Produ
         </div>
       </section>
 
-      <section className="sec" data-bg={colour.sand} data-dark="0">
+      <section className="sec solid" data-bg={colour.sand} data-dark="0" style={{ '--sec': colour.sand } as CSSProperties}>
         <div className="kala rise">
           <div className="kala-pic"><img src="/rice/kalanamak-rice/bowl.webp" srcSet="/rice/kalanamak-rice/bowl-360.webp 360w, /rice/kalanamak-rice/bowl.webp 720w" sizes="(max-width: 820px) 80vw, 480px" alt="Kala Namak rice in a brass bowl" width={720} height={720} loading="lazy" /></div>
           <div className="kala-txt">
@@ -180,11 +180,11 @@ export default function Home({ products, featured, families }: { products: Produ
         </div>
       </section>
 
-      <div data-bg={colour.cream} data-dark="0"><Catalogue products={products} families={families.map(f => f.name)} /></div>
+      <div className="solid" data-bg={colour.cream} data-dark="0" style={{ '--sec': colour.cream } as CSSProperties}><Catalogue products={products} families={families.map(f => f.name)} /></div>
 
       <Featured products={featured} />
 
-      <section className="sec" id="questions" data-bg={colour.sand} data-dark="0">
+      <section className="sec solid" id="questions" data-bg={colour.sand} data-dark="0" style={{ '--sec': colour.sand } as CSSProperties}>
         <div className="faq">
           <h2>Common questions</h2>
           <div>{questions.map(x => <details key={x.q}><summary>{x.q}</summary><p>{x.a}</p></details>)}</div>

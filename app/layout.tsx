@@ -1,11 +1,12 @@
 import type { Metadata, Viewport } from 'next';
-import { Figtree, Marcellus } from 'next/font/google';
+import { Figtree, Gloock } from 'next/font/google';
 import Footer from '@/components/Footer';
 import Header from '@/components/Header';
 import { WhatsAppFab } from '@/components/WhatsAppButton';
 import './globals.css';
 
-const display = Marcellus({ subsets: ['latin'], weight: '400', variable: '--display' });
+// Gloock: a dark, high-contrast serif with a vintage label feel, for headings. Body text stays Figtree, which reads easily at any size.
+const display = Gloock({ subsets: ['latin'], weight: '400', variable: '--display' });
 const text = Figtree({ subsets: ['latin'], weight: ['400', '500', '600'], variable: '--text' });
 
 export const metadata: Metadata = {
