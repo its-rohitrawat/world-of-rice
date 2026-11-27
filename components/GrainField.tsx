@@ -243,8 +243,12 @@ export default function GrainField() {
       gl!.bufferData(gl!.ARRAY_BUFFER, strip, gl!.STATIC_DRAW);
     }
 
+    let lastW = 0, lastH = 0, lastDpr = 0;
     function resize() {
-      const dpr = Math.min(devicePixelRatio || 1, 1.75), w = canvas.clientWidth, h = canvas.clientHeight;
+      // sharp on high-density phone screens; and nothing to redo when the size did not change (a phone's toolbar sliding away)
+      const dpr = Math.min(devicePixelRatio || 1, 2.5), w = canvas.clientWidth, h = canvas.clientHeight;
+      if (w === lastW && h === lastH && dpr === lastDpr && emblem.length) return;
+      lastW = w; lastH = h; lastDpr = dpr;
       canvas.width = Math.round(w * dpr); canvas.height = Math.round(h * dpr);
       gl!.viewport(0, 0, canvas.width, canvas.height);
       aspect = w / h;
@@ -283,6 +287,7 @@ export default function GrainField() {
       gl!.drawArraysInstanced(gl!.TRIANGLE_STRIP, 0, 4, n);
     }
     const onMove = (ev: PointerEvent) => {
+      if (ev.pointerType !== 'mouse') return;   // a finger scrolling the page should not push the crest apart
       const x = (ev.clientX / innerWidth * 2 - 1) * aspect, y = 1 - ev.clientY / innerHeight * 2;
       if (mouse.x > 8) { mouse.x = x; mouse.y = y; }
       mouse.tx = x; mouse.ty = y; mouse.push = Math.min(1.2, mouse.push + .22);
@@ -296,7 +301,7 @@ export default function GrainField() {
       layout();
       if (field.intro < 1) {
         if (still || scrollY > innerHeight * .5) field.intro = 1;
-        else gsap.fromTo(field, { intro: 0 }, { intro: 1, duration: 3.1, ease: 'power2.out' });
+        else gsap.fromTo(field, { intro: 0 }, { intro: 1, duration: innerWidth < 820 ? 2.2 : 3.1, ease: 'power2.out' });
       }
       frame();
       document.fonts?.ready.then(() => { if (!dead) layout(); });   // the headline settles once fonts load

@@ -18,7 +18,7 @@ export const viewport: Viewport = { themeColor: '#4B3832' };
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" data-theme="light" data-scroll-behavior="smooth" className={`${display.variable} ${text.variable}`} suppressHydrationWarning>
+    <html lang="en" data-theme="dark" data-scroll-behavior="smooth" className={`${display.variable} ${text.variable}`} suppressHydrationWarning>
       <body><Header /><main>{children}</main><Footer /><WhatsAppFab /></body>
     </html>
   );
